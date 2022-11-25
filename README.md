@@ -1,6 +1,6 @@
 # Homepage Netflix
 Clonando a página inicial da Netflix.
-Projeto desenvolvido seguindo tutoria do DIO - Digital Innovation One.
+Projeto desenvolvido seguindo tutorial do DIO - Digital Innovation One.
 
 ![image](https://user-images.githubusercontent.com/87051404/203878149-49a3d456-fea0-4984-8b30-dae581075b9e.png)
 
